@@ -1,17 +1,21 @@
 ## I'm Victor Dias 👋
 
-Agronomist Engineer, a Data Engineering postgraduate student, and a BI Analyst, currently studying Python for data analysis.
+BI Analyst, postgraduate student in Data Engineering.
+My background in analytics allows me to focus on business value, while my engineering studies ensure that I build scalable and secure solutions.
 
-## Skills
+## Tools
 
 ![image](https://img.shields.io/badge/Microsoft_Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![image](https://img.shields.io/badge/Google%20Sheets-000000?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![image](https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![image](https://img.shields.io/badge/Metabase-000000?style=for-the-badge&logo=metabase&logoColor=fff)
 ![image](https://img.shields.io/badge/Microsoft_SQL_Server-000000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![image](https://img.shields.io/badge/PowerQuerry-000000?style=for-the-badge&logo=powerquerry&logoColor=white)
 ![image](https://img.shields.io/badge/DAX-000000?style=for-the-badge&logo=DAX2&logoColor=white)
+![image](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white)
+![image](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white&logoSize=auto)
 
-## Learner
+## Codes
 
 ![image](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=blue)
 
