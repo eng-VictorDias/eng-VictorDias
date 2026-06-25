@@ -1,6 +1,6 @@
 ## I'm Victor Dias 👋
 
-BI Analyst, postgraduate student in Data Engineering.
+Analista de Business Intelligence e pós-graduando em Engenharia de Dados. Criativo, e apaixonado por tecnologia.
 
 ## Tools
 
