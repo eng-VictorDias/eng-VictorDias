@@ -1,8 +1,8 @@
-## I'm Victor Dias 👋
+## Eu sou Victor Dias 👋
 
 Analista de Business Intelligence e pós-graduando em Engenharia de Dados. Criativo, e apaixonado por tecnologia.
 
-## Tools
+## Ferramentas
 
 ![image](https://img.shields.io/badge/Microsoft_Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![image](https://img.shields.io/badge/Google%20Sheets-000000?style=for-the-badge&logo=google-sheets&logoColor=white)
@@ -14,17 +14,17 @@ Analista de Business Intelligence e pós-graduando em Engenharia de Dados. Criat
 ![image](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white)
 ![image](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white&logoSize=auto)
 
-## Codes
+## Códigos
 
 ![image](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=blue)
 
-## Github Stats
+## Estatísticas Github
 <div>
 <a href="https://github.com/eng-VictorDias">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eng-VictorDias&show_icons=true&theme=dark&include_all_commits=trueecount_private=true"/>
 </div>
 
-## Contacts
+## Contatos
 <div>
 <a href = "mailto:engi.victordias@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/victor-dias-eng/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
