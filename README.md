@@ -1,7 +1,6 @@
 ## I'm Victor Dias 👋
 
 BI Analyst, postgraduate student in Data Engineering.
-My background in analytics allows me to focus on business value, while my engineering studies ensure that I build scalable and secure solutions.
 
 ## Tools
 
